@@ -1,7 +1,7 @@
 Summary:	An auto-translate plugin for xchat
 Name:		xchat-translator
 Version:	0.1
-Release:	%mkrel 1
+Release:	%mkrel 2
 License:	GPL
 Group:		Networking/IRC
 URL:		http://code.google.com/p/gtranslatecmd/downloads/detail?name=translator.py&can=2&q=
