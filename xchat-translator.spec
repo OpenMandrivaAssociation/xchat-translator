@@ -40,3 +40,17 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %{_datadir}/xchat/translator.py
 
+
+
+%changelog
+* Mon Sep 12 2011 Oden Eriksson <oeriksson@mandriva.com> 0.1-2mdv2012.0
++ Revision: 699509
+- fix bork by OmGnH
+
+* Tue Sep 06 2011 Oden Eriksson <oeriksson@mandriva.com> 0.1-1
++ Revision: 698429
+- import xchat-translator
+
+
+* Tue Sep 06 2011 Oden Eriksson <oeriksson@mandriva.com> 0.1-1mdv2010.2
+- initial Mandriva package
