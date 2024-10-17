@@ -4,7 +4,7 @@ Version:	0.1
 Release:	3
 License:	GPL
 Group:		Networking/IRC
-URL:		http://code.google.com/p/gtranslatecmd/downloads/detail?name=translator.py&can=2&q=
+URL:		https://code.google.com/p/gtranslatecmd/downloads/detail?name=translator.py&can=2&q=
 Source0:	http://gtranslatecmd.googlecode.com/files/translator.py
 Requires:	xchat
 Requires:	xchat-python
